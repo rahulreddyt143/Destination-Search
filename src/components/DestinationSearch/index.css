@@ -1,0 +1,23 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  color: black;
+}
+.input {
+}
+.search-icon {
+}
+.list-container  {
+}
